@@ -1,4 +1,4 @@
-# Project Name
+# Rewards Module
 
 > Rewards/reward-tier module for a crowd-funding campaign/project page
 
