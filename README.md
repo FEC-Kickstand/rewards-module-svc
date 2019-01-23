@@ -1,4 +1,4 @@
-# Rewards Module
+# Kickstand (Rewards Module)
 
 > Rewards/reward-tier module for a crowd-funding campaign/project page
 
